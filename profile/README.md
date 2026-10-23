@@ -96,4 +96,13 @@ If you have questions or would like more detail, please get in touch. · ご質�
 
 ---
 
+<p align="center">
+  <a href="https://www.liferay.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/liferay-logo-white.png">
+      <img src="assets/liferay-logo-color.png" alt="Liferay" width="160">
+    </picture>
+  </a>
+</p>
+
 <p align="center"><sub>Liferay Customer Success · Asia Pacific · カスタマーサクセス アジア太平洋 · <a href="https://lgsapac.github.io/">lgsapac.github.io</a></sub></p>
