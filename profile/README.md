@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Liferay Customer Success · Asia Pacific / カスタマーサクセス アジア太平洋 / 客户成功 亚太地区" width="100%">
+  <img src="assets/banner.svg" alt="Liferay User Group APAC, sponsored by Liferay Customer Success / Liferay ユーザーグループ APAC / Liferay 用户组 APAC" width="100%">
 </p>
 
 <p align="center">
@@ -10,23 +10,27 @@
 </p>
 
 <p align="center">
-  <b>We're the Liferay Customer Success team for Asia Pacific.</b><br>
-  We work with customers from first deployment through every upgrade after it, so that Liferay DXP keeps delivering results for your business.
+  <b>Welcome to the Liferay User Group APAC.</b><br>
+  A community for people who build with and run Liferay DXP across Asia Pacific, sharing tutorials, sample code and practical know-how. Sponsored by the Liferay Customer Success team.
 </p>
 
 <p align="center">
-  <b>Liferay アジア太平洋地域のカスタマーサクセスチームです。</b><br>
-  初期導入からその後のアップグレードまで、お客様に寄り添い、Liferay DXP がビジネスの成果を生み出し続けられるよう支援しています。
+  <b>Liferay ユーザーグループ APAC へようこそ。</b><br>
+  アジア太平洋地域で Liferay DXP を活用・運用する方々のためのコミュニティです。チュートリアル、サンプルコード、実践的なノウハウを共有しています。スポンサーは Liferay カスタマーサクセスチームです。
 </p>
 
 <p align="center">
-  <b>我们是 Liferay 亚太地区客户成功团队。</b><br>
-  从首次部署到之后的每一次升级，我们始终与客户同行，确保 Liferay DXP 持续为您的业务创造价值。
+  <b>欢迎来到 Liferay 用户组 APAC。</b><br>
+  面向亚太地区使用和运营 Liferay DXP 的用户社区，分享教程、示例代码和实践经验。本社区由 Liferay 客户成功团队赞助。
 </p>
 
 ---
 
-## How we work · 私たちの取り組み · 我们的工作
+## Our sponsor · スポンサー · 赞助方
+
+The Liferay Customer Success team for Asia Pacific sponsors this community. Here's how they support customers:<br>
+Liferay アジア太平洋地域のカスタマーサクセスチームがこのコミュニティのスポンサーです。お客様への支援内容は次のとおりです。<br>
+Liferay 亚太地区客户成功团队赞助本社区，并通过以下方式为客户提供支持：
 
 <table>
   <tr>
@@ -81,11 +85,11 @@
 
 ## 📚 Tutorials & sample code · チュートリアルとサンプルコード · 教程与示例代码
 
-We publish tutorials, sample code and tools for Liferay DXP, written by our team for common implementation, upgrade and migration tasks. New material is added regularly.
+We publish tutorials, sample code and tools for Liferay DXP that help with common implementation, upgrade and migration tasks. New material is added regularly.
 
-一般的な実装、アップグレード、移行作業に役立つ Liferay DXP 向けのチュートリアル、サンプルコード、ツールを、私たちのチームが作成して公開しています。新しいコンテンツは随時追加していきます。
+一般的な実装、アップグレード、移行作業に役立つ Liferay DXP 向けのチュートリアル、サンプルコード、ツールを公開しています。新しいコンテンツは随時追加していきます。
 
-我们的团队针对常见的实施、升级和迁移任务，编写并发布 Liferay DXP 教程、示例代码和工具。新内容将持续更新。
+我们针对常见的实施、升级和迁移任务，发布 Liferay DXP 教程、示例代码和工具。新内容将持续更新。
 
 ➡️ [Browse resources](https://lgsapac.github.io/#resources)<br>
 ➡️ [リソースを見る](https://lgsapac.github.io/ja/#resources)<br>
@@ -127,8 +131,8 @@ If you have questions or would like more detail, please get in touch.<br>
 </p>
 
 <p align="center"><sub>
-  Liferay Customer Success · Asia Pacific<br>
-  Liferay カスタマーサクセス · アジア太平洋<br>
-  Liferay 客户成功 · 亚太地区<br>
+  Liferay User Group APAC · Sponsored by Liferay Customer Success<br>
+  Liferay ユーザーグループ APAC · スポンサー：Liferay カスタマーサクセス<br>
+  Liferay 用户组 APAC · 赞助方：Liferay 客户成功团队<br>
   <a href="https://lgsapac.github.io/">lgsapac.github.io</a>
 </sub></p>
