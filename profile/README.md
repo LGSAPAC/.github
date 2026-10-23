@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.liferay.co.jp/contact"><img src="https://img.shields.io/badge/Contact_us-liferay.co.jp-0B5FFF?style=for-the-badge" alt="Contact us"></a>
+  <a href="https://www.liferay.com/contact-us"><img src="https://img.shields.io/badge/Contact_us-liferay.com-0B5FFF?style=for-the-badge" alt="Contact us"></a>
   <a href="https://github.com/LGSAPAC"><img src="https://img.shields.io/badge/Follow-@LGSAPAC-030F2C?style=for-the-badge&logo=github&logoColor=white" alt="Follow LGSAPAC on GitHub"></a>
   <img src="https://img.shields.io/badge/Region-Asia_Pacific-4C8BFF?style=for-the-badge" alt="Region: Asia Pacific">
 </p>
@@ -84,9 +84,9 @@ To get the latest tutorials and samples:
 If you have questions, or would like more detail on anything here, please get in touch with us:
 
 <p align="center">
-  <a href="https://www.liferay.co.jp/contact"><img src="https://img.shields.io/badge/Contact_Liferay_Customer_Success-0B5FFF?style=for-the-badge" alt="Contact Liferay Customer Success"></a>
+  <a href="https://www.liferay.com/contact-us"><img src="https://img.shields.io/badge/Contact_Liferay_Customer_Success-0B5FFF?style=for-the-badge" alt="Contact Liferay Customer Success"></a>
   <br>
-  <a href="https://www.liferay.co.jp/contact">https://www.liferay.co.jp/contact</a>
+  <a href="https://www.liferay.com/contact-us">https://www.liferay.com/contact-us</a>
 </p>
 
 ---
