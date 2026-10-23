@@ -1,4 +1,8 @@
 <p align="center">
+  <b>English</b> | <a href="https://github.com/LGSAPAC/.github/blob/main/profile/README.ja.md">日本語</a>
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="Liferay Customer Success · Asia Pacific" width="100%">
 </p>
 
