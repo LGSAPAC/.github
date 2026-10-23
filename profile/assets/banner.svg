@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Liferay Customer Success APAC">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Liferay Customer Success APAC / カスタマーサクセス アジア太平洋">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#030F2C"/>
@@ -30,11 +30,12 @@
 
   <rect x="0" y="300" width="1280" height="40" fill="url(#glow)" opacity="0.5"/>
 
-  <g font-family="'Source Sans Pro','Source Sans 3','Segoe UI',Helvetica,Arial,sans-serif" fill="#FFFFFF">
-    <text x="72" y="104" font-size="22" font-weight="600" letter-spacing="5" fill="#9FC0FF">LIFERAY  ·  ASIA PACIFIC</text>
-    <text x="70" y="176" font-size="64" font-weight="700">Customer Success</text>
-    <text x="72" y="226" font-size="26" font-weight="400" fill="#D6E3FF">Helping our customers get lasting value from Liferay DXP.</text>
-    <rect x="72" y="256" width="72" height="6" rx="3" fill="#0B5FFF"/>
-    <rect x="152" y="256" width="24" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.6"/>
+  <g font-family="'Source Sans Pro','Source Sans 3','Segoe UI','Hiragino Sans','Noto Sans JP','Yu Gothic','Meiryo',Helvetica,Arial,sans-serif" fill="#FFFFFF">
+    <text x="72" y="92" font-size="22" font-weight="600" letter-spacing="5" fill="#9FC0FF">LIFERAY  ·  ASIA PACIFIC  ·  アジア太平洋</text>
+    <text x="70" y="160" font-size="64" font-weight="700">Customer Success</text>
+    <text x="72" y="204" font-size="30" font-weight="600" fill="#FFFFFF" fill-opacity="0.85">カスタマーサクセス</text>
+    <text x="72" y="246" font-size="24" font-weight="400" fill="#D6E3FF">Helping our customers get lasting value from Liferay DXP.</text>
+    <rect x="72" y="270" width="72" height="6" rx="3" fill="#0B5FFF"/>
+    <rect x="152" y="270" width="24" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.6"/>
   </g>
 </svg>
