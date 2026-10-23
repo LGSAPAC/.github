@@ -26,7 +26,7 @@
 
 ---
 
-## How we work<br>私たちの取り組み<br>我们的工作
+## How we work · 私たちの取り組み · 我们的工作
 
 <table>
   <tr>
@@ -79,7 +79,7 @@
 
 ---
 
-## 📚 Tutorials & sample code<br>チュートリアルとサンプルコード<br>教程与示例代码
+## 📚 Tutorials & sample code · チュートリアルとサンプルコード · 教程与示例代码
 
 We publish tutorials, sample code and tools for Liferay DXP, written by our team for common implementation, upgrade and migration tasks. New material is added regularly.
 
@@ -91,7 +91,7 @@ We publish tutorials, sample code and tools for Liferay DXP, written by our team
 ➡️ [リソースを見る](https://lgsapac.github.io/ja/#resources)<br>
 ➡️ [浏览资源](https://lgsapac.github.io/zh/#resources)
 
-## 🔔 Stay up to date<br>最新情報を受け取る<br>获取最新信息
+## 🔔 Stay up to date · 最新情報を受け取る · 获取最新信息
 
 - **Follow [@LGSAPAC](https://github.com/LGSAPAC)** to see new repositories in your GitHub feed.<br>
   フォローすると、新しいリポジトリが GitHub のフィードに表示されます。<br>
@@ -103,7 +103,7 @@ We publish tutorials, sample code and tools for Liferay DXP, written by our team
   役に立ったリポジトリには Star を付けてください。<br>
   为有用的代码库加上星标。
 
-## 💬 Questions?<br>お問い合わせ<br>联系我们
+## 💬 Questions? · お問い合わせ · 联系我们
 
 If you have questions or would like more detail, please get in touch.<br>
 ご質問や詳しい内容については、お気軽にお問い合わせください。<br>
