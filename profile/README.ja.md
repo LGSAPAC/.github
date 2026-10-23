@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://lgsapac.github.io/ja/"><img src="https://img.shields.io/badge/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88-lgsapac.github.io-0B5FFF?style=for-the-badge" alt="ウェブサイト"></a>
   <a href="https://www.liferay.co.jp/contact"><img src="https://img.shields.io/badge/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B-liferay.co.jp-0B5FFF?style=for-the-badge" alt="お問い合わせ"></a>
   <a href="https://github.com/LGSAPAC"><img src="https://img.shields.io/badge/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC-@LGSAPAC-030F2C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub で LGSAPAC をフォロー"></a>
   <img src="https://img.shields.io/badge/%E5%9C%B0%E5%9F%9F-%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%AA%E5%B9%B3%E6%B4%8B-4C8BFF?style=for-the-badge" alt="地域：アジア太平洋">
@@ -91,4 +92,4 @@
 
 ---
 
-<p align="center"><sub>Liferay カスタマーサクセス · アジア太平洋</sub></p>
+<p align="center"><sub>Liferay カスタマーサクセス · アジア太平洋 · <a href="https://lgsapac.github.io/ja/">lgsapac.github.io</a></sub></p>

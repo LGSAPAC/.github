@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://lgsapac.github.io/"><img src="https://img.shields.io/badge/Website-lgsapac.github.io-0B5FFF?style=for-the-badge" alt="Visit our website"></a>
   <a href="https://www.liferay.com/contact-us"><img src="https://img.shields.io/badge/Contact_us-liferay.com-0B5FFF?style=for-the-badge" alt="Contact us"></a>
   <a href="https://github.com/LGSAPAC"><img src="https://img.shields.io/badge/Follow-@LGSAPAC-030F2C?style=for-the-badge&logo=github&logoColor=white" alt="Follow LGSAPAC on GitHub"></a>
   <img src="https://img.shields.io/badge/Region-Asia_Pacific-4C8BFF?style=for-the-badge" alt="Region: Asia Pacific">
@@ -91,4 +92,4 @@ If you have questions, or would like more detail on anything here, please get in
 
 ---
 
-<p align="center"><sub>Liferay Customer Success · Asia Pacific</sub></p>
+<p align="center"><sub>Liferay Customer Success · Asia Pacific · <a href="https://lgsapac.github.io/">lgsapac.github.io</a></sub></p>
