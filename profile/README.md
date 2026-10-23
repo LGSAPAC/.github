@@ -51,8 +51,8 @@
     <td align="center" valign="top"><img src="assets/04-enablement.svg" width="52" alt=""></td>
     <td valign="top">
       <b>Enablement &amp; knowledge sharing</b> · イネーブルメントとナレッジ共有<br>
-      Hands-on guidance, sample code and tooling from projects across the region.<br>
-      地域のプロジェクトで得た知見を、ガイド、サンプルコード、ツールとして共有します。
+      Hands-on guidance, sample code and reusable tooling for Liferay DXP.<br>
+      Liferay DXP の実践的なガイド、サンプルコード、ツールを共有します。
     </td>
   </tr>
   <tr>
@@ -73,9 +73,9 @@
 
 ## 📚 Tutorials & sample code · チュートリアルとサンプルコード
 
-We publish tutorials, sample code and tools for Liferay DXP, built from real customer work in Asia Pacific. New material is added regularly.
+We publish tutorials, sample code and tools for Liferay DXP, written by our team for common implementation, upgrade and migration tasks. New material is added regularly.
 
-アジア太平洋地域でのお客様プロジェクトから生まれた Liferay DXP 向けのチュートリアル、サンプルコード、ツールを公開しています。新しいコンテンツは随時追加していきます。
+一般的な実装、アップグレード、移行作業に役立つ Liferay DXP 向けのチュートリアル、サンプルコード、ツールを、私たちのチームが作成して公開しています。新しいコンテンツは随時追加していきます。
 
 ➡️ [Browse resources](https://lgsapac.github.io/#resources) · [リソースを見る](https://lgsapac.github.io/ja/#resources)
 
