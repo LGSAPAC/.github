@@ -35,7 +35,13 @@
   </tr>
 </table>
 
-More: [lgsapac.github.io](https://lgsapac.github.io/) · [日本語](https://lgsapac.github.io/ja/) · [中文](https://lgsapac.github.io/zh/)
+## Liferay Community APAC · コミュニティ · 社区
+
+We sponsor **[Liferay Community APAC](https://liferay-community-apac.github.io/)**, a community for people who build with and run Liferay DXP across Asia Pacific. It shares tutorials, sample code and practical know-how for common implementation, upgrade and migration tasks.<br>
+Liferay Community APAC は、アジア太平洋地域で Liferay DXP を活用する方々のためのコミュニティです。チュートリアルやサンプルコード、実践的なノウハウを共有しています。<br>
+Liferay Community APAC 是面向亚太地区 Liferay DXP 用户的社区，分享教程、示例代码和实践经验。
+
+➡️ [liferay-community-apac.github.io](https://liferay-community-apac.github.io/) · [日本語](https://liferay-community-apac.github.io/ja/) · [中文](https://liferay-community-apac.github.io/zh/)
 
 ## Contact us · お問い合わせ · 联系我们
 
